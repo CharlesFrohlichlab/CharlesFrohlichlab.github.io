@@ -106,11 +106,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Zhe Charles Zhou"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am a research scientist with experience in developing novel analyses of neuroscience and health data."
+  location         : "Chapel Hill, NC"
+  email            : "zhecharleszhou@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
