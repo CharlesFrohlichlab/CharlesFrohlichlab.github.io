@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Zhe Charles Zhou"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a research scientist with experience in developing novel analyses of neuroscience and health data. I will be graduating with a PhD degree in neuroscience in May 2019. I am actively searching for data science positions."
+  bio              : "I am a research scientist with experience in developing novel analyses of neuroscience and health data."
   location         : "Chapel Hill, NC"
   email            : "zhecharleszhou@email.com"
   links:
